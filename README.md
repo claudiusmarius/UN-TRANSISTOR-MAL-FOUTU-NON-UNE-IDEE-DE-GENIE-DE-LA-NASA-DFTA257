@@ -1,5 +1,7 @@
 # UN-TRANSISTOR-MAL-FOUTU-NON-UNE-IDEE-DE-GENIE-DE-LA-NASA-DFTA257
 
+Vidéo YouTube : https://youtu.be/Od7eHtSYFPs
+
 Apollo Analog Multiplexer – Experimental Recreation
 
 Ce dépôt accompagne une vidéo consacrée à l’étude et à la reproduction d’un principe de multiplexage analogique utilisé dans le programme Apollo.
