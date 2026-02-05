@@ -12,8 +12,6 @@ Ne disposant pas du composant d’origine, cette étude propose :
 
 une reconstitution fonctionnelle du 3N68 à partir de transistors discrets,
 
-une modélisation sous LTspice,
-
 une approche expérimentale inspirée des travaux de CuriousMarc et Mike Stewart.
 
 Objectif : comprendre et illustrer une solution d’ingénierie analogique historique, antérieure aux circuits intégrés.
